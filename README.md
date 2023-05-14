@@ -97,28 +97,33 @@ endmodule
 
 ### RTL LOGIC  
 
-## 4x1 MULTIPLEXER:
+4x1 MULTIPLEXER:
 
 ![multi](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/5d2351b3-341b-46f1-868a-16df70777426)
 
-## 1x4 DEMULTIPLEXER:
+1x4 DEMULTIPLEXER:
 
+![demux](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/c5f9e40f-274f-4cac-ada4-b44f284a20fa)
 
 ### TIMING DIGRAMS  
 
-## 4X1 MULTIPLEXER:
+4X1 MULTIPLEXER:
 
+![TIMMUX](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/6054e8ea-03d4-4779-8005-2a306ef8cefd)
 
-# 1X4 DEMULTIPLEXER:
+1X4 DEMULTIPLEXER:
 
+![demuxtim](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/89244587-bed7-4874-8506-c295aca2e2ab)
 
 ### TRUTH TABLE 
 
-## 4X1 MULTIPLEXER:
+4X1 MULTIPLEXER:
 
+![MUXTRUTH](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/7c37765a-e809-4527-a0c1-943b02288522)
 
-# 1X4 DEMULTIPLEXER:
+#1X4 DEMULTIPLEXER:
 
-
+![DEMUXTRU](https://github.com/sivabalan28/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497347/b47f9696-fdb9-48c5-928a-5b91a8202257)
 
 ### RESULTS 
+Hence 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
